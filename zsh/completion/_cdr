@@ -1,0 +1,3 @@
+#compdef cdr
+
+_files -W $HOME/apps
