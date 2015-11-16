@@ -1,0 +1,1 @@
+[[ -d "$PWD/.git/safe" && -d "$PWD/bin" ]] && PATH=$PWD/bin:$PATH
